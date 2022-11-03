@@ -1,4 +1,4 @@
-// Himanshu gaurav Toppo - Dated:3 November Lab Programs//
+// Vikas - Dated:3 November Lab Programs//
 package Thursday_Lab2;
 
 import java.util.Scanner;
