@@ -32,4 +32,4 @@ public class prime {
 	    }
 	  }
 	}
-//Himanshu gaurav Toppo - Dated:3 November Lab Programs//
+//Vikas Kumar - Dated:3 November Lab Programs//
