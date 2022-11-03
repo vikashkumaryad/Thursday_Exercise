@@ -1,5 +1,5 @@
 package Thursday_Lab2;
-//Himanshu gaurav Toppo - Dated:3 November Lab Programs//
+//Vikas Yadav - Dated:3 November Lab Programs//
 class palindrome{  
 	 public static void main(String args[]){  
 	  int r,sum=0,temp;    
